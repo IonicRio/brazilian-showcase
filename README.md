@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://adamdbradley.github.io/ionic-v2-and-beyond/img/ionic2.png" width="250px">
+  <img src="https://github.com/IonicRio/brazilian-showcase/blob/master/ionic.png" width="250px">
 </p>
-  # brazilian-showcase
+# Brazilian Showcase
 
 Brazilian Companies that use Ionic Framework
